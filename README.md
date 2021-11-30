@@ -25,6 +25,13 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   33 hrs 28 mins  ████████████████████████░   95.53 % 
+JSON         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+SQL          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Git Config   13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Other        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+```
 <!--END_SECTION:waka-->
 
 ### You Can Find Me At
