@@ -27,11 +27,13 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-JavaScript   33 hrs 28 mins  ████████████████████████░   95.53 % 
-JSON         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-SQL          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Git Config   13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Other        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Week: 23 November, 2021 - 29 November, 2021
+
+JavaScript   33 hrs 28 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀   95.53 % 
+JSON         37 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.79 % 
+SQL          25 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.19 % 
+Git Config   13 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.63 % 
+Other        11 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.55 % 
 ```
 <!--END_SECTION:waka-->
 
